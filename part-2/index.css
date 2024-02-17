@@ -1,0 +1,9 @@
+.tweet{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    border-bottom: 1px solid #ccc;
+    background-color: lightgray;
+    margin: 10px;
+    width: 500px;
+}
